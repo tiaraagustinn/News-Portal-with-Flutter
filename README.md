@@ -4,23 +4,7 @@ Aplikasi News Portal merupakan aplikasi berita mobile yang memungkinkan
 pengguna untuk melihat berita dari berbagai kategori, membaca detail berita, dan 
 melakukan manajemen akun pengguna. 
 
-
-## 📋 Daftar Isi
-- [Fitur](#fitur)
-- [Tangkapan Layar](#tangkapan-layar)
-- [Struktur Proyek](#struktur-proyek)
-- [Teknologi yang Digunakan](#teknologi-yang-digunakan)
-- [Instalasi](#instalasi)
-- [Penggunaan](#penggunaan)
-- [Integrasi API](#integrasi-api)
-- [Manajemen State](#manajemen-state)
-- [Kontribusi](#kontribusi)
-- [Lisensi](#lisensi)
-
-## 📸 Tangkapan Layar
-(Masukkan screenshot aplikasi Anda di sini)
-
-## 🏗️ Struktur Proyek
+## Struktur Proyek
 ```
 lib/
 ├── main.dart        # Entry point dan pengaturan navigasi
@@ -32,7 +16,7 @@ lib/
 └── formregist.dart  # Form registrasi
 ```
 
-## 🛠️ Teknologi yang Digunakan
+## Teknologi yang Digunakan
 - **Flutter**: Framework UI untuk pengembangan lintas platform
 - **Dart**: Bahasa pemrograman
 - **News API**: Untuk mengambil data berita real-time
@@ -42,7 +26,7 @@ lib/
   - `shared_preferences`: Untuk penyimpanan lokal data pengguna
   - `fluttertoast`: Untuk menampilkan pesan toast
 
-## 📥 Instalasi
+## Instalasi
 
 1. Clone repositori
 ```bash
@@ -64,7 +48,7 @@ flutter pub get
 flutter run
 ```
 
-## 🚀 Penggunaan
+## Halaman
 
 ### Halaman Home
 Layar utama menampilkan daftar artikel berita terbaru. Setiap kartu artikel menunjukkan:
@@ -72,14 +56,15 @@ Layar utama menampilkan daftar artikel berita terbaru. Setiap kartu artikel menu
 - Judul
 - Tanggal publikasi
 - Deskripsi singkat
-![Home](images/Home.png)
+<img src="images/Home.png" width="300"/>
+
 
 ### Halaman Detail
 - Gambar
 - Judul
 - Tanggal publikasi
 - Isi berita
-![Detail](images/Detail.png)
+<img src="images/Detail.png" width="300"/>
 
 
 ### Halaman Kategori
@@ -87,18 +72,21 @@ Jelajahi berita berdasarkan kategori dengan tata letak grid yang intuitif:
 - Berita umum
 - Hiburan
 - Transportasi
-![Kategori](images/Kategori.png)
+<img src="images/Kategori.png" width="300"/>
+
 
 ### Halaman Profil
 Kelola profil pengguna Anda:
 - Username Profil
 - Tombol logout
-![Profil](images/Profil.png)
+<img src="images/Profil.png" width="300"/>
+
 
 ### Halaman Registrasi
 - Login ke akun Anda
 - Daftar akun baru
-![Registrasi](images/Registrasi.png)
+<img src="images/Registrasi.png" width="300"/>
+
 
 ## 🔌 Integrasi API
 Aplikasi ini terintegrasi dengan News API untuk mengambil artikel terbaru:
