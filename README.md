@@ -58,6 +58,7 @@ Layar utama menampilkan daftar artikel berita terbaru. Setiap kartu artikel menu
 - Deskripsi singkat
 <img src="images/Home.png" width="250"/>
 
+<hr>
 
 ### Halaman Detail
 - Gambar
@@ -65,7 +66,7 @@ Layar utama menampilkan daftar artikel berita terbaru. Setiap kartu artikel menu
 - Tanggal publikasi
 - Isi berita
 <img src="images/Detail.png" width="250"/>
-
+<hr>
 
 ### Halaman Kategori
 Jelajahi berita berdasarkan kategori dengan tata letak grid yang intuitif:
@@ -73,14 +74,14 @@ Jelajahi berita berdasarkan kategori dengan tata letak grid yang intuitif:
 - Hiburan
 - Transportasi
 <img src="images/Kategori.png" width="250"/>
-
+<hr>
 
 ### Halaman Profil
 Kelola profil pengguna Anda:
 - Username Profil
 - Tombol logout
 <img src="images/Profil.png" width="250"/>
-
+<hr>
 
 ### Halaman Registrasi
 - Login ke akun Anda
