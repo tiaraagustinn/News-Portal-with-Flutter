@@ -64,7 +64,7 @@ Layar utama menampilkan daftar artikel berita terbaru. Setiap kartu artikel menu
 - Judul
 - Tanggal publikasi
 - Isi berita
-<img src="images/Detail.png" width="300"/>
+<img src="images/Detail.png" width="250"/>
 
 
 ### Halaman Kategori
@@ -72,20 +72,20 @@ Jelajahi berita berdasarkan kategori dengan tata letak grid yang intuitif:
 - Berita umum
 - Hiburan
 - Transportasi
-<img src="images/Kategori.png" width="300"/>
+<img src="images/Kategori.png" width="250"/>
 
 
 ### Halaman Profil
 Kelola profil pengguna Anda:
 - Username Profil
 - Tombol logout
-<img src="images/Profil.png" width="300"/>
+<img src="images/Profil.png" width="250"/>
 
 
 ### Halaman Registrasi
 - Login ke akun Anda
 - Daftar akun baru
-<img src="images/Registrasi.png" width="300"/>
+<img src="images/Registrasi.png" width="250"/>
 
 
 ## 🔌 Integrasi API
