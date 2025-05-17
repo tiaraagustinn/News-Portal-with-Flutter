@@ -56,7 +56,7 @@ Layar utama menampilkan daftar artikel berita terbaru. Setiap kartu artikel menu
 - Judul
 - Tanggal publikasi
 - Deskripsi singkat
-<img src="images/Home.png" width="300"/>
+<img src="images/Home.png" width="100"/>
 
 
 ### Halaman Detail
